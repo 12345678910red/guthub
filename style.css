@@ -1,4 +1,9 @@
-.cabecalio{
+.cabecalho{
     background-color: rgb(112, 69, 58);
-    color:rgba(172, 8, 8, 0.699)
-}
+   color:rgba(172, 8, 8, 0.699)
+display:flex;
+justify-content:space-around;
+.cabecalho{
+display: inline-block;
+margin:0 120px;
+padding:789px 0;
